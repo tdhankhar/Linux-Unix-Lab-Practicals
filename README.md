@@ -3,4 +3,3 @@ Shell Scripts written in Linux/Unix Lab ( Semester 5 )
 
 
 // Added demo lines
-// Adding pull request for hacktoberfest
